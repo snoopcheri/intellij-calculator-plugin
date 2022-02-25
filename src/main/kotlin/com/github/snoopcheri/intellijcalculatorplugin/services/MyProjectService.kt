@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.snoopcheri.intellijcalculatorplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.snoopcheri.intellijcalculatorplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
